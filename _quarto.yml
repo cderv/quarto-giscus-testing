@@ -6,9 +6,15 @@ website:
   comments:
     giscus:
       repo: andrewheiss/quarto-giscus-testing
+      category: General
+      category-id: DIC_kwDOOa-qAc4CpLmu
+      mapping: pathname
   navbar:
     right:
       - about.qmd
+      - icon: github
+        href: "https://github.com/andrewheiss/quarto-giscus-testing"
+        aria-label: GitHub
 format:
   html:
     theme:

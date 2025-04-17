@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 8d508591-2121-446b-a35a-34c0e44c277e
+      url: https://andrewheiss.quarto.pub/quarto-giscus-testing
